@@ -6,8 +6,6 @@
 
 블록체인 기반의 경비 관리 시스템 구축 프로젝트입니다. 정합성 검증을 위해 블록체인에 데이터를 추가 작성합니다. 기존의 법인카드 사용, 영수증 제출, 검증 프로세스를 개선하여 결제 시 실시간 검증되는 시스템 구축을 목표로 합니다.
 
-<br>
-
 ## 구현 기능
 
 - 경비관리 시스템(Web)
@@ -23,7 +21,9 @@
   - 이용내역 조회 기능
   - 결제 기능
 
-<br>
+## 설치 방법
+
+[설치 방법](./install/INSTALL.md) 참고
 
 ## 작업 룰
 
@@ -62,8 +62,6 @@ feat: 로그인 기능 구현 / fix: 회원가입 수정
 - develop : 개발용 최상위 branch
 - feature : 기능별 branch
 
-<br>
-
 ## 팀원 소개
 
 - **이혜진** - _PM, Frontend_
@@ -71,8 +69,6 @@ feat: 로그인 기능 구현 / fix: 회원가입 수정
 - **윤현수** - _Frontend, Backend_
 - **정지환** - _Blockchain_
 - **주정훈** - _Backend, Server_
-
-<br>
 
 ## 🚀 기술 스택
 
@@ -116,10 +112,3 @@ feat: 로그인 기능 구현 / fix: 회원가입 수정
 ### DevOps
 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-<br>
-<br>
-
-## 프로젝트 실행하기
-
-[설치 방법](./exec/INSTALL.md) 참고
